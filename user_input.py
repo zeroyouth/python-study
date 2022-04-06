@@ -1,0 +1,6 @@
+user_name = input('이름을 입력해주세요: ')
+user_password = input('비밀번호를 입력해주세요: ')
+print('유저 이름은')
+print(user_name)
+print('유저의 비밀번호는')
+print(user_password)
